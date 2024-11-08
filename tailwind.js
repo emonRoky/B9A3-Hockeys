@@ -9,6 +9,9 @@ tailwind.config = {
          "customGreen": '#49D293',
          "customOrange": '#FFB546',
          "customBlue": '#4C8DF1',
+         "customGreenTwo": '#BCED6D',
+         "customYellow": '#FDDD5F',
+         "customBlueTwo": '#629CF3',
         }
       }
     }
